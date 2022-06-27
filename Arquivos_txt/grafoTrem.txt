@@ -1,0 +1,120 @@
+A Coruna       Santiago de C.   61   30
+Albacete       Madrid          226  113
+Albacete       Murcia          133   66
+Albacete       Valencia        126   63
+Alicante       Murcia           65   32
+Alicante       Valencia        137   68
+Barcelona      Mataro           26   13
+Barcelona      Tarragona        77   38
+Bilbao         Burgos          130   65
+Bilbao         Logrono         108   54
+Braga          Porto            51   25
+Braga          Vigo             87   43
+Burgos         Bilbao          130   65
+Burgos         Logrono          95   47
+Burgos         Valladolid      121   60
+Caceres        Castelo Branco   99   49
+Caceres        Sevilha         254  127
+Caceres        Toledo          183   91
+Cadiz          Huelva           97   48
+Cartagena      Murcia           51   25
+Castelo Branco Caceres          99   49
+Castelo Branco Pombal           88   44
+Coimbra        Pombal           39   19
+Coimbra        Porto           121   60
+Coimbra        Viseu            71   35
+Cordoba        Jaen             77   38
+Cordoba        Madrid          322  161
+Cordoba        Malaga          142   71
+Cordoba        Sevilha         110   55
+El Ejido       Granada          79   39
+Gijon          Oviedo           28   14
+Girona         Mataro           68   34
+Girona         Perpignan        92   46
+Granada        El Ejido         79   39
+Granada        Jaen             69   34
+Granada        Malaga           83   41
+Guarda         Salamanca       136   68
+Guarda         Viseu            54   27
+Huelva         Cadiz            97   48
+Huelva         Sevilha          82   41
+Jaen           Cordoba          77   38
+Jaen           Granada          69   34
+Leon           Oviedo          104   52
+Leon           Ponferrada       79   39
+Leon           Valladolid      133   66
+Lisboa         Loule           210  105
+Lisboa         Pombal          149   74
+Lleida         Tarragona        71   38
+Lleida         Zaragoza        115   57
+Logrono        Bilbao          108   54
+Logrono        Burgos           95   47
+Logrono        Zaragoza        148   79
+Lorca          Murcia           58   29
+Loule          Lisboa          210  105
+Lugo           Ponferrada       95   47
+Madrid         Albacete        226  113
+Madrid         Cordoba         322  161
+Madrid         Salamanca       165   82
+Madrid         Toledo           76   38
+Madrid         Valladolid      174   87
+Madrid         Zaragoza        266  133
+Malaga         Cordoba         142   71
+Malaga         Granada          83   41
+Mataro         Barcelona        26   13
+Mataro         Girona           68   34
+Montpellier    Toulouse        191   95
+Murcia         Albacete        133   66
+Murcia         Alicante         65   32
+Murcia         Cartagena        51   25
+Murcia         Lorca            58   29
+Ourense        Ponferrada      100   50
+Ourense        Santiago de C.   89   44
+Ourense        Vigo             67   33
+Oviedo         Gijon            28   14
+Oviedo         Leon            104   52
+Pau            Toulouse        146   73
+Pau            Zaragoza        213  106
+Perpignan      Girona           92   46
+Pombal         Castelo Branco   88   44
+Pombal         Coimbra          39   19
+Pombal         Lisboa          149   74
+Ponferrada     Leon             79   39
+Ponferrada     Lugo             95   47
+Ponferrada     Ourense         100   50
+Porto          Braga            51   25
+Porto          Coimbra         121   60
+Salamanca      Guarda          136   68
+Salamanca      Madrid          165   82
+Santander      Valladolid      244  122
+Santiago de C. A Coruna         61   30
+Santiago de C. Ourense          89   44
+Santiago de C. Vigo             85   42
+Sevilha        Caceres         254  127
+Sevilha        Cordoba         110   55
+Sevilha        Huelva           82   41
+Tarragona      Barcelona        77   38
+Tarragona      Lleida           71   38
+Tarragona      Valencia        240  120
+Toledo         Caceres         183   91
+Toledo         Madrid           76   38
+Toulouse       Montpellier     191   95
+Toulouse       Pau             146   73
+Valencia       Albacete        126   63
+Valencia       Alicante        137   68
+Valencia       Tarragona       240  120
+Valencia       Zaragoza        275  137
+Valladolid     Burgos          121   60
+Valladolid     Leon            133   66
+Valladolid     Madrid          174   87
+Valladolid     Santander       244  122
+Vigo           Braga            87   43
+Vigo           Ourense          67   33
+Vigo           Santiago de C.   85   42
+Viseu          Coimbra          71   35
+Viseu          Guarda           54   27
+Zaragoza       Lleida          115   57
+Zaragoza       Logrono         148   79
+Zaragoza       Madrid          266  133
+Zaragoza       Pau             213  106
+Zaragoza       Valencia        275  137
